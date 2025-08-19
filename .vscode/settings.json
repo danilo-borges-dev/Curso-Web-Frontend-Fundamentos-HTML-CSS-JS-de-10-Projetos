@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "node_modules": true,
+    ".prettierrc.json": true,
+    "setting.json": true,
+    "eslint.config.mjs": true,
+    ".gitignore": true,
+    ".eslintgnore": true,
+    "package-lock.json": true,
+    "package.json": true,
+    ".vscode": true
+  },
+  "explorerExclude.backup": {}
+}
